@@ -17,15 +17,7 @@ I have successfully completed the **[Skill Up C](https://www.geeksforgeeks.org/b
 ![Course Certificate](./path-to-your-certificate-image.png)
 
 
----
 
-## 🏗️ Course Projects
-Throughout the Skill Up C course, I implemented several projects to apply theoretical knowledge. These include:
-- **[Project Name 1]**: Brief description of what it does (e.g., Simple Billing System).
-- **[Project Name 2]**: Brief description (e.g., Student Record Management).
-- **[Project Name 3]**: Brief description (e.g., File-based encryption tool).
-
-*(Feel free to list the specific projects you built here!)*
 
 ---
 
