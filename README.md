@@ -14,7 +14,7 @@ I have successfully completed the **[Skill Up C](https://www.geeksforgeeks.org/b
 - Implementation of real-world logic through mini-projects.
 
 ### Course Completion Certificate
-![Course Certificate](./path-to-your-certificate-image.png)
+![Course Certificate](https://github.com/rio-ARC/Tryharding-C/blob/main/Certificate-%20C%20SkillUp.jpg?raw=true)
 
 
 
