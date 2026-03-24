@@ -4,10 +4,10 @@
 int linearSearch(int arr[], int size, int target) {
     for (int i = 0; i < size; i++) {
         if (arr[i] == target) {
-            return i; // Return index if found
+            return i;
         }
     }
-    return -1; // Return -1 if not found
+    return -1;
 }
 
 int binarySearch(int arr[], int size, int target) {
@@ -17,7 +17,7 @@ int binarySearch(int arr[], int size, int target) {
         int mid = left + (right - left) / 2;
         
         if (arr[mid] == target) {
-            return mid; // Return index if found
+            return mid;
         }
         
         if (arr[mid] < target) {
