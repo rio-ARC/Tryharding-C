@@ -10,7 +10,6 @@ int linearSearch(int arr[], int size, int target) {
     return -1; // Return -1 if not found
 }
 
-// Binary Search (requires sorted array)
 int binarySearch(int arr[], int size, int target) {
     int left = 0, right = size - 1;
     
@@ -28,7 +27,7 @@ int binarySearch(int arr[], int size, int target) {
         }
     }
     
-    return -1; // Return -1 if not found
+    return -1;
 }
 
 int main() {
@@ -44,7 +43,7 @@ int main() {
         printf("Linear Search: Element %d not found\n", target);
     }
     
-    // Binary Search (array is already sorted)
+    
     int binary_result = binarySearch(arr, size, target);
     if (binary_result != -1) {
         printf("Binary Search: Element %d found at index %d\n", target, binary_result);
