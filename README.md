@@ -71,8 +71,6 @@ Beyond the fundamental syntax, I have dedicated a significant portion of this re
    ./output
    ```
 
----
-*“C is the base of all modern languages. Mastering it is not just about syntax; it's about understanding how computers actually work.”*
 
 ***
 
